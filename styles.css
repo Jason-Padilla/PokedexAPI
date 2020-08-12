@@ -1,0 +1,65 @@
+body 
+{
+    background-color: rgb(255, 67, 70);
+}
+#pokemon-logo
+{
+    margin-top:30px;
+    margin-bottom:0px;
+}
+#pokemon-info
+{
+    border: 5px white solid;
+    height: 300px;
+    width: 750px;
+    display: block;
+    background-color: rgb(185, 248, 254);
+    margin:30px auto;
+    padding:15px;
+    
+}
+#left-info 
+{
+    
+    width: 49%;
+    display: inline-block;
+    color: rgb(51, 79, 155);
+    vertical-align: top;
+}
+#right-info 
+{
+    
+    width: 49%;
+    display: inline-block;
+    color: rgb(51, 79, 155);
+}
+#weight,#height 
+{
+    display: inline-block;
+    width: 49%;
+    
+}
+#types 
+{
+    display: block;
+    margin-bottom: 40px;
+}
+h4
+{
+    color:white;
+    
+}
+li
+{
+    display: inline;
+    margin: 0px 10px;
+}
+li h4
+{
+    display: inline;
+}
+ul
+{
+    margin:0px;
+    padding:0px;
+}
